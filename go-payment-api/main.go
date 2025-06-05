@@ -1,7 +1,7 @@
 package main
 import ( 
 	"go-payment-api/models"
-    "go-payment-api/handlers"
+    "go-payment-api/handler"
     "github.com/gin-gonic/gin"
     "gorm.io/driver/sqlite"
     "gorm.io/gorm"
